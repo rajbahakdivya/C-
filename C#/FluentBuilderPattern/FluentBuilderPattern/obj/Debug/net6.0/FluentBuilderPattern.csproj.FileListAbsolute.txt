@@ -1,0 +1,15 @@
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\obj\Debug\net6.0\FluentBuilderPattern.csproj.AssemblyReference.cache
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\obj\Debug\net6.0\FluentBuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\obj\Debug\net6.0\FluentBuilderPattern.AssemblyInfoInputs.cache
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\obj\Debug\net6.0\FluentBuilderPattern.AssemblyInfo.cs
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\obj\Debug\net6.0\FluentBuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\bin\Debug\net6.0\FluentBuilderPattern.exe
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\bin\Debug\net6.0\FluentBuilderPattern.deps.json
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\bin\Debug\net6.0\FluentBuilderPattern.runtimeconfig.json
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\bin\Debug\net6.0\FluentBuilderPattern.dll
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\bin\Debug\net6.0\FluentBuilderPattern.pdb
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\obj\Debug\net6.0\FluentBuilderPattern.dll
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\obj\Debug\net6.0\refint\FluentBuilderPattern.dll
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\obj\Debug\net6.0\FluentBuilderPattern.pdb
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\obj\Debug\net6.0\FluentBuilderPattern.genruntimeconfig.cache
+C:\Users\97152\Desktop\C#\FluentBuilderPattern\FluentBuilderPattern\obj\Debug\net6.0\ref\FluentBuilderPattern.dll

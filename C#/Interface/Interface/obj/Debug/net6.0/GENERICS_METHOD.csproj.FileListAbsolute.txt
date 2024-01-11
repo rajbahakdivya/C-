@@ -1,0 +1,15 @@
+C:\Users\97152\Desktop\C#\Interface\Interface\obj\Debug\net6.0\GENERICS_METHOD.csproj.AssemblyReference.cache
+C:\Users\97152\Desktop\C#\Interface\Interface\obj\Debug\net6.0\GENERICS_METHOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97152\Desktop\C#\Interface\Interface\obj\Debug\net6.0\GENERICS_METHOD.AssemblyInfoInputs.cache
+C:\Users\97152\Desktop\C#\Interface\Interface\obj\Debug\net6.0\GENERICS_METHOD.AssemblyInfo.cs
+C:\Users\97152\Desktop\C#\Interface\Interface\obj\Debug\net6.0\GENERICS_METHOD.csproj.CoreCompileInputs.cache
+C:\Users\97152\Desktop\C#\Interface\Interface\bin\Debug\net6.0\GENERICS_METHOD.exe
+C:\Users\97152\Desktop\C#\Interface\Interface\bin\Debug\net6.0\GENERICS_METHOD.deps.json
+C:\Users\97152\Desktop\C#\Interface\Interface\bin\Debug\net6.0\GENERICS_METHOD.runtimeconfig.json
+C:\Users\97152\Desktop\C#\Interface\Interface\bin\Debug\net6.0\GENERICS_METHOD.dll
+C:\Users\97152\Desktop\C#\Interface\Interface\bin\Debug\net6.0\GENERICS_METHOD.pdb
+C:\Users\97152\Desktop\C#\Interface\Interface\obj\Debug\net6.0\GENERICS_METHOD.dll
+C:\Users\97152\Desktop\C#\Interface\Interface\obj\Debug\net6.0\refint\GENERICS_METHOD.dll
+C:\Users\97152\Desktop\C#\Interface\Interface\obj\Debug\net6.0\GENERICS_METHOD.pdb
+C:\Users\97152\Desktop\C#\Interface\Interface\obj\Debug\net6.0\GENERICS_METHOD.genruntimeconfig.cache
+C:\Users\97152\Desktop\C#\Interface\Interface\obj\Debug\net6.0\ref\GENERICS_METHOD.dll
